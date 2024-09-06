@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+### About Me
 I’m currently pursuing **Computer Science and Engineering** with a specialization in **Data Science** at **Haldia Institute of Technology**, West Bengal. I'm passionate about using **Machine Learning** and **Data Science** to solve real-world problems.
