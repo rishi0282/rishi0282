@@ -23,13 +23,21 @@ I’m currently pursuing **Computer Science and Engineering** with a specializat
 - 🎓 **Certified Dataiku Core Designer**
 - 🌱 Currently learning: About LLMs, Langchain and Retrieval Augmented Generation(RAG) and working with local models like Gemma-2b and OpenAI.
 - 💡 Exploring:  **Machine Learning**, **Deep Learning**, **Data Science**
+  
+<hr>
 
 ### Skills
 - **Programming Languages**: Python, C/C++, SQL
 - **Machine Learning & Data Science**: Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Langchain
-- **Frameworks & Tools**: Streamlit, Git, Dataiku
+- **Frameworks & Tools**: Streamlit, Git, Dataiku, FASTAPI, POSTMAN
 - **Cloud & DevOps**: Docker, GitHub Actions
 - **Databases**: MySQL, MongoDB
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,anaconda,css,html,docker,fastapi,git,github,mongodb,mysql,postman,vscode" />
+  </a>
+</p>
 
 ## Let's Connect
 - [GitHub Profile](https://github.com/rishi0282)
