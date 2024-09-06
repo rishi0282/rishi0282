@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome Visitors! I'm Rishi Raj!👋
 
 <!--
 **rishi0282/rishi0282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+I’m currently pursuing **Computer Science and Engineering** with a specialization in **Data Science** at **Haldia Institute of Technology**, West Bengal. I'm passionate about using **Machine Learning** and **Data Science** to solve real-world problems.
